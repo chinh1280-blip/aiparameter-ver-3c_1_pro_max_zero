@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AIparameter ver 3c_1_Pro_Max_e",
+  "description": "High-precision HMI data extraction using Gemini Vision with spatial anchoring prompts for industrial laminator machines.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
